@@ -3,10 +3,6 @@ Aula de Eng. de Software
 
 # Prof Ricardo de Magalhães Simões
 
-Este arquivo funciona como um documento de "apresentação" do projeto.
-
-Complete o texto, indicando o que você quer fazer:
-
 1) Resumo. <br>
   Estou descrevendo uma linguagem de programação.
 
