@@ -8,11 +8,13 @@ Este arquivo funciona como um documento de "apresentação" do projeto.
 Complete o texto, indicando o que você quer fazer:
 
 1) Resumo (3 frases)
-
+  Estou descrevendo uma linguagem de programação
 2) Objetivo (2 frases)
-
+  Informar aos interessados como a linguagem nasceu e como ela esta atualmente.
+  
 3) Público Alvo (2 frases)
-
+   Estudantes **autodidatas** e **universitários**.
+  
 4) Critérios para inclusão de colaboradores (3 critérios)
 
 5) Cronograma inicial (datas)
