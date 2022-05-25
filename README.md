@@ -35,10 +35,10 @@ Complete o texto, indicando o que você quer fazer:
      **25/05/2022**
       
 5.4) Análise de Comentários: <br> 
-     ** 29/05/2022  **
+     **29/05/2022**
       
 5.5) Revisão do Projeto: <br> 
-     ** 01/06/2022  **
+     **01/06/2022**
       
 5.6) Divulgação da Revisão: <br> 
       **04/06/2022**  
