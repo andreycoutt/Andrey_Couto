@@ -1,6 +1,6 @@
 # Equipe:
 ## 1º Andrey Couto ♀️
-### 2º Ricardo Magalhães ♀️ 🕵️‍♀️
+### 2º Ricardo Magalhães ♀️ 
 ### 3º Alison 👽
 
 #### Aula de Eng. de Software
