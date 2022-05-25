@@ -22,26 +22,26 @@ Aula de Eng. de Software
 5) Cronograma inicial (datas)
 
 5.1) Início do Projeto: <br> 
-   **18/05/2022**
+   - **18/05/2022**
       
 5.2) Primeira Versão: <br> 
-  **19/05/2022**
+  - **19/05/2022**
       
 5.3) Divulgação seletiva: <br> 
-     **25/05/2022**
+     - **25/05/2022**
       
 5.4) Análise de Comentários: <br> 
-     **29/05/2022**
+     - **29/05/2022**
       
 5.5) Revisão do Projeto: <br> 
-     **01/06/2022**
+     - **01/06/2022**
       
 5.6) Divulgação da Revisão: <br> 
-      **04/06/2022**  
+      - **04/06/2022**  
       
 5.7) Divulgação Ampla: <br> 
-      **10/06/2022**  
+      - **10/06/2022**  
       
 5.8) Preparativo para Segunda Versão: <br>
-      **15/06/2022**
+      - **15/06/2022**
       
