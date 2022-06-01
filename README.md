@@ -2,6 +2,7 @@
 ## 1º Andrey Couto ♀️
 ### 2º Ricardo Magalhães ♀️ 
 ### 3º Alison 👽
+### 4º Rafael Savignon
 
 #### Aula de Eng. de Software
 
